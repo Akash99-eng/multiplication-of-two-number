@@ -1,1 +1,0 @@
-# multiplication-of-two-number
